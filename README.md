@@ -15,3 +15,10 @@ MONGO_HOST = mongodb://127.0.0.1:27017 MONGO_DATABASE = veloursmongo
 
 Arquivo de configuração do banco de dados:
 settings.env
+
+
+
+Project Setup Front-end
+npm install
+Compile and Hot-Reload for Development
+npm run dev
